@@ -1,1 +1,1 @@
-loops conditios and parsing
+Shellcheck Project
